@@ -1,0 +1,14 @@
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    background-color: black;
+  }
+
+.clock{
+    color: white;
+}
+
+.date{
+    color: violet;
+
+
+}
