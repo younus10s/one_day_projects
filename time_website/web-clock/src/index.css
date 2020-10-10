@@ -1,13 +1,15 @@
 body {
-    font: 14px "Century Gothic", Futura, sans-serif;
     background-color: black;
+    text-align: center;
   }
 
 .clock{
+    font: 40px "Century Gothic", Futura, sans-serif;
     color: white;
 }
 
-.date{
+.date{    
+    font: 20px "Century Gothic", Futura, sans-serif;
     color: violet;
 
 
