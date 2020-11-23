@@ -1,1 +1,0 @@
-# one_day_projects
